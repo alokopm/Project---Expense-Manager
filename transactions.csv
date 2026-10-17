@@ -1,0 +1,5 @@
+id,date,type,category,amount,description
+1,01/01/2026,expense,food,230,party
+2,13/01/2026,expense,food,20,lunch
+3,24/01/2026,income,salary,5000,monthly salary
+5,10/17/2026,expense,medical,415.55,fever
